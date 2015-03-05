@@ -1,4 +1,4 @@
-pouchdb-getting-started-todo
+doMinimal
 ============================
 
-The source repository for the getting started tutorial for PouchDB
+Offline, backendless todo app
